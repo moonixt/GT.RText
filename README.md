@@ -2,6 +2,9 @@
 # GT.RText v1.9.4 - Enhanced Edition
 ====================================
 
+  <img width="1230" height="482" alt="GT RText_91r9j1yscx" src="https://github.com/user-attachments/assets/642fce13-1f20-42ef-88fe-24efa8b05c10" />
+
+
 ## IMPORTANT NOTICE
 This is a **MODIFIED** version of the original GT.RText by xfileFIN  
 Original author: **xfileFIN** © 2022  
@@ -11,7 +14,7 @@ This version includes additional features not present in the original.
 ---
 
 ## OVERVIEW
-Gran Turismo RText Editor with enhanced features including:
+Gran Turismo RText Editor with enhanced features, including:
 - CSV Import/Export functionality for bulk editing
 - Pure black dark theme with dark title bar
 - Custom icon support
